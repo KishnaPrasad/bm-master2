@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#23283a</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="pink">#fe104d</color>
+    <color name="cblack">#000000</color>
+    <color name="cblackbottm">#2d3436</color>
+</resources>
